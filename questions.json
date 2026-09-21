@@ -1,0 +1,982 @@
+[
+  {
+    "id": "DSAT-RW-WIC-001",
+    "domain": "Reading and Writing",
+    "skillCategory": "Words in Context",
+    "difficulty": "Easy",
+    "stimulus": "Coral reef researchers have grown increasingly vocal about the pace of ocean degradation, and their studies consistently show how tightly reef health is bound to global climate stability. Rather than treating reefs as an inexhaustible resource, many researchers now argue that coastal resource management must become far more ______ if these ecosystems are to recover from decades of overfishing and pollution.",
+    "questionStem": "Which choice completes the text with the most logical and precise word or phrase?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "indifferent",
+        "isCorrect": false,
+        "trapType": "OPPOSITE_DIRECTION",
+        "rationale": "This means unconcerned or detached, which contradicts the sentence's call for management to change in order to help reefs recover."
+      },
+      {
+        "letter": "B",
+        "text": "judicious",
+        "isCorrect": true,
+        "trapType": "NONE",
+        "rationale": "This means careful and sensible — exactly the shift implied by contrasting current overfishing and pollution with what recovery requires."
+      },
+      {
+        "letter": "C",
+        "text": "haphazard",
+        "isCorrect": false,
+        "trapType": "OPPOSITE_DIRECTION",
+        "rationale": "This means disorganized or random, which is closer to the problem the sentence describes than to the solution it calls for."
+      },
+      {
+        "letter": "D",
+        "text": "belligerent",
+        "isCorrect": false,
+        "trapType": "TOO_BROAD_EXTREME",
+        "rationale": "This means hostile or aggressive, an unrelated and needlessly extreme connotation the context never supports."
+      }
+    ],
+    "correctAnswer": "B",
+    "studyNote": {
+      "ruleOrPrinciple": "The correct word must match the precise logical relationship set up by the surrounding sentence, not just its general topic.",
+      "trapAlert": "Distractors are often real vocabulary words that fit the topic's tone but reverse or ignore the specific logical signal — contrast, cause, or degree — built into the sentence.",
+      "strategicShortcut": "Cover the choices and predict your own word first, using only the sentence's logic. Then match your prediction to the closest choice in meaning and connotation.",
+      "keyVocabularyOrFormulas": [
+        "Context clues",
+        "Connotation",
+        "Precision of meaning"
+      ]
+    }
+  },
+  {
+    "id": "DSAT-RW-TSP-002",
+    "domain": "Reading and Writing",
+    "skillCategory": "Text Structure and Purpose",
+    "difficulty": "Medium",
+    "stimulus": "The medieval guild system is often remembered as a rigid, tradition-bound institution that stifled innovation among craftsmen. Yet apprenticeship records from fifteenth-century Florence reveal a system remarkably responsive to market demand: guild masters frequently altered training curricula to teach emerging techniques in metallurgy and textile dyeing. This adaptability suggests that, far from being static, guilds functioned as flexible institutions capable of significant internal reform.",
+    "questionStem": "Which choice best describes the function of the second sentence (\"Yet apprenticeship records...textile dyeing\") in the text as a whole?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "It introduces historical evidence that complicates the claim presented in the first sentence.",
+        "isCorrect": true,
+        "trapType": "NONE",
+        "rationale": "The sentence pivots on \"Yet\" and offers records that challenge the popular view of guilds stated just before it."
+      },
+      {
+        "letter": "B",
+        "text": "It restates, without elaboration, the popular view described earlier in the text.",
+        "isCorrect": false,
+        "trapType": "OPPOSITE_DIRECTION",
+        "rationale": "The sentence does the opposite of restating the popular view — it introduces evidence against it."
+      },
+      {
+        "letter": "C",
+        "text": "It introduces an unrelated example to illustrate innovation in a different craft entirely.",
+        "isCorrect": false,
+        "trapType": "HALF_RIGHT_ALL_WRONG",
+        "rationale": "The example is directly related to guilds, the passage's actual subject, not a tangent about some other craft."
+      },
+      {
+        "letter": "D",
+        "text": "It undermines the reliability of the record-keeping practices it mentions.",
+        "isCorrect": false,
+        "trapType": "TOO_BROAD_EXTREME",
+        "rationale": "The sentence uses the records as credible support for its claim; it never questions their reliability."
+      }
+    ],
+    "correctAnswer": "A",
+    "studyNote": {
+      "ruleOrPrinciple": "Identify what job a sentence does in the passage's argument — introduce, support, complicate, or conclude — rather than just what it says.",
+      "trapAlert": "Wrong choices often accurately restate a sentence's content but mislabel its function, such as calling a counterexample a summary.",
+      "strategicShortcut": "Ask whether removing the sentence would change the passage's argument or just remove a detail. That distinction reveals its true function.",
+      "keyVocabularyOrFormulas": [
+        "Rhetorical function",
+        "Claim vs. evidence",
+        "Counterargument"
+      ]
+    }
+  },
+  {
+    "id": "DSAT-RW-CTC-003",
+    "domain": "Reading and Writing",
+    "skillCategory": "Cross-Text Connections",
+    "difficulty": "Hard",
+    "stimulus": "Text 1: Some economists argue that automation primarily displaces low-skill labor, creating short-term unemployment that new industries eventually absorb as workers retrain.\n\nText 2: Recent labor data complicates this narrative: workers displaced by automation in manufacturing regions often see wages stagnate even after retraining, suggesting that new industries do not always replace lost income at comparable levels.",
+    "questionStem": "Based on the texts, how would the author of Text 2 most likely respond to the claim in Text 1 that new industries eventually absorb displaced workers?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "By dismissing the economists' view entirely as based on outdated data.",
+        "isCorrect": false,
+        "trapType": "TOO_BROAD_EXTREME",
+        "rationale": "Text 2 says the narrative is \"complicated,\" not that it should be dismissed outright."
+      },
+      {
+        "letter": "B",
+        "text": "By arguing that automation does not primarily affect low-skill labor, contrary to Text 1's claim.",
+        "isCorrect": false,
+        "trapType": "OPPOSITE_DIRECTION",
+        "rationale": "Text 2 never disputes which workers are displaced; it questions what happens to their income afterward."
+      },
+      {
+        "letter": "C",
+        "text": "By agreeing that retraining often leads to new employment but questioning whether it fully restores wages.",
+        "isCorrect": true,
+        "trapType": "NONE",
+        "rationale": "Text 2 doesn't dispute that workers find new jobs after retraining — only that their wages often stagnate, a more targeted complication of Text 1's claim."
+      },
+      {
+        "letter": "D",
+        "text": "By confirming that new industries fully replace displaced workers' income after retraining.",
+        "isCorrect": false,
+        "trapType": "OPPOSITE_DIRECTION",
+        "rationale": "This reverses Text 2's actual point, which is that income is often not fully replaced."
+      }
+    ],
+    "correctAnswer": "C",
+    "studyNote": {
+      "ruleOrPrinciple": "Determine the specific claim each text makes, then pinpoint exactly where the two texts agree, disagree, or complicate one another.",
+      "trapAlert": "Distractors often invent a disagreement that isn't present, or inflate a mild complication into outright dismissal.",
+      "strategicShortcut": "Summarize each text in one sentence in your own words before reading the choices. Most wrong answers won't match either summary.",
+      "keyVocabularyOrFormulas": [
+        "Corroboration",
+        "Complication",
+        "Author's stance"
+      ]
+    }
+  },
+  {
+    "id": "DSAT-RW-CID-004",
+    "domain": "Reading and Writing",
+    "skillCategory": "Central Ideas and Details",
+    "difficulty": "Easy",
+    "stimulus": "Urban planners have begun redesigning public parks to include \"quiet zones\" — sections deliberately kept free of loudspeakers, food vendors, and organized sports. Early surveys suggest that visitors to these zones report lower stress levels than visitors to more active park areas, even when the two zones are similar in size and greenery.",
+    "questionStem": "Which choice best states the main idea of the text?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Public parks should eliminate food vendors entirely to reduce visitor stress.",
+        "isCorrect": false,
+        "trapType": "TOO_BROAD_EXTREME",
+        "rationale": "The text describes one design experiment, not a sweeping policy recommendation for all parks."
+      },
+      {
+        "letter": "B",
+        "text": "Visitors consistently prefer smaller parks with more greenery over larger ones.",
+        "isCorrect": false,
+        "trapType": "HALF_RIGHT_ALL_WRONG",
+        "rationale": "Size and greenery are held constant in the comparison; the text isn't about park size preference at all."
+      },
+      {
+        "letter": "C",
+        "text": "Organized sports in parks have no measurable effect on visitor well-being.",
+        "isCorrect": false,
+        "trapType": "OPPOSITE_DIRECTION",
+        "rationale": "The text implies the opposite — that removing organized sports and other stimulation is linked to lower stress."
+      },
+      {
+        "letter": "D",
+        "text": "Designating parts of parks as quiet zones appears to reduce stress for the visitors who use them.",
+        "isCorrect": true,
+        "trapType": "NONE",
+        "rationale": "This is broad enough to cover the whole finding but stays within what the survey data actually supports."
+      }
+    ],
+    "correctAnswer": "D",
+    "studyNote": {
+      "ruleOrPrinciple": "The main idea must be broad enough to cover the whole passage but no broader than what the text actually supports.",
+      "trapAlert": "Distractors take one true detail and stretch it into an absolute, sweeping claim the passage never makes.",
+      "strategicShortcut": "Ask whether the choice could serve as a one-sentence summary for someone who hasn't read the passage. If it overreaches, eliminate it.",
+      "keyVocabularyOrFormulas": [
+        "Main idea",
+        "Scope",
+        "Overgeneralization"
+      ]
+    }
+  },
+  {
+    "id": "DSAT-RW-COE-005",
+    "domain": "Reading and Writing",
+    "skillCategory": "Command of Evidence: Quantitative",
+    "difficulty": "Medium",
+    "stimulus": "A city transportation office tracked average commute times before and after adding a protected bike lane on Main Street. In the year before installation, average car commute times were 22 minutes. In the year after installation, average car commute times rose to 24 minutes, while average bicycle commute times on the same route fell from 19 to 15 minutes.",
+    "questionStem": "Which choice best describes data that support the claim that the bike lane primarily benefited cyclists rather than drivers?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Car commute times before installation were higher than bicycle commute times before installation.",
+        "isCorrect": false,
+        "trapType": "HALF_RIGHT_ALL_WRONG",
+        "rationale": "This is an accurate reading of the \"before\" data, but it doesn't address what changed after installation."
+      },
+      {
+        "letter": "B",
+        "text": "Car commute times increased by 2 minutes while bicycle commute times decreased by 4 minutes after installation.",
+        "isCorrect": true,
+        "trapType": "NONE",
+        "rationale": "This names both groups, both directions of change, and both amounts — exactly the comparison the claim requires."
+      },
+      {
+        "letter": "C",
+        "text": "Bicycle commute times decreased in the year after installation.",
+        "isCorrect": false,
+        "trapType": "HALF_RIGHT_ALL_WRONG",
+        "rationale": "True, but incomplete — it leaves out the driver comparison needed to support \"rather than drivers.\""
+      },
+      {
+        "letter": "D",
+        "text": "Car commute times fell after installation, matching the drop in bicycle commute times.",
+        "isCorrect": false,
+        "trapType": "OPPOSITE_DIRECTION",
+        "rationale": "This reverses the passage's stated direction — car commute times rose, they didn't fall."
+      }
+    ],
+    "correctAnswer": "B",
+    "studyNote": {
+      "ruleOrPrinciple": "Evidence must directly support the specific comparison in the question, not just be a true fact drawn from the same data set.",
+      "trapAlert": "Distractors are often factually accurate readings of the data that answer a different, unasked question.",
+      "strategicShortcut": "Restate the claim in your own words, then check each choice: does it name both quantities being compared, in the correct direction?",
+      "keyVocabularyOrFormulas": [
+        "Quantitative evidence",
+        "Data comparison",
+        "Directional claim"
+      ]
+    }
+  },
+  {
+    "id": "DSAT-RW-INF-006",
+    "domain": "Reading and Writing",
+    "skillCategory": "Inferences",
+    "difficulty": "Hard",
+    "stimulus": "A naturalist recorded that migratory songbirds arrived at their northern breeding grounds nearly two weeks earlier than they had a decade prior, yet the insects the birds typically feed their hatchlings had not shifted their own emergence dates by nearly as much.",
+    "questionStem": "Which choice most logically follows from the naturalist's observations?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "Hatchlings may face a growing mismatch between their arrival and the availability of their primary food source.",
+        "isCorrect": true,
+        "trapType": "NONE",
+        "rationale": "This follows directly from the widening gap between the birds' new arrival timing and the insects' largely unchanged emergence timing."
+      },
+      {
+        "letter": "B",
+        "text": "The birds will likely abandon the northern breeding grounds entirely within the decade.",
+        "isCorrect": false,
+        "trapType": "TOO_BROAD_EXTREME",
+        "rationale": "The passage describes a timing mismatch, not a prediction of complete abandonment."
+      },
+      {
+        "letter": "C",
+        "text": "Insect populations at the breeding grounds have declined significantly over the past decade.",
+        "isCorrect": false,
+        "trapType": "HALF_RIGHT_ALL_WRONG",
+        "rationale": "The passage says emergence timing shifted little — it says nothing about population size."
+      },
+      {
+        "letter": "D",
+        "text": "The birds' earlier arrival is caused directly by changes in insect emergence patterns.",
+        "isCorrect": false,
+        "trapType": "OPPOSITE_DIRECTION",
+        "rationale": "This reverses the relationship — the insects are described as barely changing, not as driving the birds' shift."
+      }
+    ],
+    "correctAnswer": "A",
+    "studyNote": {
+      "ruleOrPrinciple": "An inference must be the most strongly supported next logical step — not a certainty, and not a leap beyond what the evidence shows.",
+      "trapAlert": "Overreaching distractors turn a described trend into a guaranteed outcome or an unstated cause-and-effect relationship.",
+      "strategicShortcut": "Ask whether a reasonable reader could disagree with the conclusion based only on the given text. If yes, it goes too far.",
+      "keyVocabularyOrFormulas": [
+        "Inference",
+        "Implication",
+        "Textual support"
+      ]
+    }
+  },
+  {
+    "id": "DSAT-RW-BND-007",
+    "domain": "Reading and Writing",
+    "skillCategory": "Boundaries",
+    "difficulty": "Easy",
+    "stimulus": "The museum's new wing features rotating exhibits on regional textile traditions ______ many of the pieces on display were donated by local weaving cooperatives.",
+    "questionStem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "traditions, many",
+        "isCorrect": false,
+        "trapType": "COMMA_SPLICE",
+        "rationale": "A comma alone cannot join two independent clauses — this creates a comma splice."
+      },
+      {
+        "letter": "B",
+        "text": "traditions. many",
+        "isCorrect": false,
+        "trapType": "MISSING_CAPITALIZATION",
+        "rationale": "A period correctly separates the two independent clauses, but the next sentence must begin with a capital letter."
+      },
+      {
+        "letter": "C",
+        "text": "traditions; many",
+        "isCorrect": true,
+        "trapType": "NONE",
+        "rationale": "A semicolon correctly joins two complete, independent clauses without any conjunction needed."
+      },
+      {
+        "letter": "D",
+        "text": "traditions and many",
+        "isCorrect": false,
+        "trapType": "MISSING_COMMA_BEFORE_CONJUNCTION",
+        "rationale": "A coordinating conjunction joining two independent clauses needs a comma before it; this choice omits it."
+      }
+    ],
+    "correctAnswer": "C",
+    "studyNote": {
+      "ruleOrPrinciple": "Two independent clauses can be joined only by a period, a semicolon, or a comma plus a coordinating conjunction (FANBOYS).",
+      "trapAlert": "Comma splices and fused (run-on) sentences sound natural when read aloud, which is exactly why they're the most common wrong answer.",
+      "strategicShortcut": "Isolate each clause and ask, \"Could this stand alone as a sentence?\" If both can, you need a period, semicolon, or comma plus conjunction.",
+      "keyVocabularyOrFormulas": [
+        "Independent clause",
+        "Comma splice",
+        "FANBOYS conjunctions"
+      ]
+    }
+  },
+  {
+    "id": "DSAT-RW-FSS-008",
+    "domain": "Reading and Writing",
+    "skillCategory": "Form, Structure, and Sense",
+    "difficulty": "Medium",
+    "stimulus": "The committee's proposal, along with several amendments suggested by junior faculty members, ______ scheduled for a final vote next Thursday.",
+    "questionStem": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "are",
+        "isCorrect": false,
+        "trapType": "PROXIMITY_AGREEMENT_ERROR",
+        "rationale": "This agrees with \"amendments,\" the nearest noun, rather than with the true singular subject, \"proposal.\""
+      },
+      {
+        "letter": "B",
+        "text": "were",
+        "isCorrect": false,
+        "trapType": "PROXIMITY_AGREEMENT_ERROR",
+        "rationale": "This repeats the proximity error and shifts to the wrong tense besides."
+      },
+      {
+        "letter": "C",
+        "text": "have been",
+        "isCorrect": false,
+        "trapType": "COMPOUND_SUBJECT_MISREAD",
+        "rationale": "This treats \"proposal\" and \"amendments\" as a compound plural subject, but \"along with\" introduces a modifying phrase, not a second subject."
+      },
+      {
+        "letter": "D",
+        "text": "is",
+        "isCorrect": true,
+        "trapType": "NONE",
+        "rationale": "The simple subject is the singular \"proposal\"; the phrase set off by commas doesn't change the verb's number."
+      }
+    ],
+    "correctAnswer": "D",
+    "studyNote": {
+      "ruleOrPrinciple": "A verb must agree with its true subject, not with a noun inside an interrupting phrase set off by commas (\"along with,\" \"as well as,\" \"in addition to\").",
+      "trapAlert": "The noun closest to the verb is often plural even though the true subject is singular, tempting a proximity-based agreement error.",
+      "strategicShortcut": "Mentally delete every phrase between commas, then check whether the remaining bare subject and verb agree.",
+      "keyVocabularyOrFormulas": [
+        "Subject-verb agreement",
+        "Interrupting phrase",
+        "Simple subject"
+      ]
+    }
+  },
+  {
+    "id": "DSAT-RW-TRN-009",
+    "domain": "Reading and Writing",
+    "skillCategory": "Transitions",
+    "difficulty": "Easy",
+    "stimulus": "Many consumers assume that organic produce is always more nutritious than conventionally grown produce. ______, several large-scale studies have found no significant difference in vitamin content between the two.",
+    "questionStem": "Which choice completes the text with the most logical transition?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "For example",
+        "isCorrect": false,
+        "trapType": "WRONG_RELATIONSHIP",
+        "rationale": "The second sentence doesn't illustrate the first claim — it challenges it, so an example transition doesn't fit."
+      },
+      {
+        "letter": "B",
+        "text": "Similarly",
+        "isCorrect": false,
+        "trapType": "OPPOSITE_DIRECTION",
+        "rationale": "This signals agreement between the two ideas, but the sentences are actually in contrast."
+      },
+      {
+        "letter": "C",
+        "text": "However",
+        "isCorrect": true,
+        "trapType": "NONE",
+        "rationale": "This correctly signals the contrast between the common assumption and the studies that complicate it."
+      },
+      {
+        "letter": "D",
+        "text": "As a result",
+        "isCorrect": false,
+        "trapType": "WRONG_RELATIONSHIP",
+        "rationale": "This implies the studies were caused by the assumption, but no such causal relationship is stated."
+      }
+    ],
+    "correctAnswer": "C",
+    "studyNote": {
+      "ruleOrPrinciple": "A transition must match the exact logical relationship between the two ideas it connects — contrast, cause, example, or addition.",
+      "trapAlert": "Distractors are grammatically smooth but signal the wrong logical relationship, often the opposite of what the sentence requires.",
+      "strategicShortcut": "Name the relationship in your own words first (\"but,\" \"so,\" \"for example\") before scanning the choices for a match.",
+      "keyVocabularyOrFormulas": [
+        "Transition words",
+        "Logical relationship",
+        "Contrast vs. cause"
+      ]
+    }
+  },
+  {
+    "id": "DSAT-RW-RS-010",
+    "domain": "Reading and Writing",
+    "skillCategory": "Rhetorical Synthesis",
+    "difficulty": "Medium",
+    "stimulus": "• A local library began offering free coding workshops for teenagers in 2021.\n• Attendance grew from 12 students in the first session to over 150 students by 2023.\n• The library credits partnerships with three local tech companies for providing volunteer instructors.\n• No workshops were offered during a three-month renovation in 2022.\n• The library plans to expand the program to a second branch next year.",
+    "questionStem": "The student wants to emphasize the role that outside partnerships played in the program's growth. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "The library's coding workshops, which began in 2021, grew from 12 to over 150 students by 2023.",
+        "isCorrect": false,
+        "trapType": "HALF_RIGHT_ALL_WRONG",
+        "rationale": "This is accurate but never mentions partnerships, so it doesn't meet the stated goal."
+      },
+      {
+        "letter": "B",
+        "text": "The library plans to expand its coding workshop program to a second branch next year.",
+        "isCorrect": false,
+        "trapType": "HALF_RIGHT_ALL_WRONG",
+        "rationale": "A true note, but it's about future expansion, not about what drove past growth through partnerships."
+      },
+      {
+        "letter": "C",
+        "text": "A three-month renovation in 2022 temporarily paused the library's coding workshops.",
+        "isCorrect": false,
+        "trapType": "HALF_RIGHT_ALL_WRONG",
+        "rationale": "Accurate but irrelevant to the partnership goal, and it works against the growth narrative rather than supporting it."
+      },
+      {
+        "letter": "D",
+        "text": "Partnerships with three local tech companies, which supplied volunteer instructors, helped the program grow from 12 to over 150 students.",
+        "isCorrect": true,
+        "trapType": "NONE",
+        "rationale": "This directly ties the partnerships to the specific growth figures, accomplishing exactly the stated goal."
+      }
+    ],
+    "correctAnswer": "D",
+    "studyNote": {
+      "ruleOrPrinciple": "The correct choice must use only relevant notes to accomplish the exact goal stated in the question — true facts that don't serve the goal are still wrong.",
+      "trapAlert": "Distractors accurately quote real details from the notes but serve a different purpose than the one the question specifies.",
+      "strategicShortcut": "Reread the stated goal and ask which note most directly proves that exact point. Ignore the most interesting unrelated facts.",
+      "keyVocabularyOrFormulas": [
+        "Rhetorical goal",
+        "Relevant evidence",
+        "Synthesis"
+      ]
+    }
+  },
+  {
+    "id": "DSAT-M-ALG-001",
+    "domain": "Math",
+    "skillCategory": "Linear Equations",
+    "difficulty": "Easy",
+    "stimulus": "4(x − 3) = 2x + 6",
+    "questionStem": "What is the value of x that satisfies the equation above?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "−3",
+        "isCorrect": false,
+        "trapType": "OPPOSITE_DIRECTION",
+        "rationale": "This comes from distributing the 4 with a sign error (treating −3 as +3), which flips the sign of the final answer."
+      },
+      {
+        "letter": "B",
+        "text": "3",
+        "isCorrect": false,
+        "trapType": "ALGEBRAIC_PARTIAL_STEP",
+        "rationale": "This comes from combining 4x and 2x by addition instead of subtraction while isolating the variable."
+      },
+      {
+        "letter": "C",
+        "text": "9",
+        "isCorrect": true,
+        "trapType": "NONE",
+        "rationale": "Distributing correctly gives 4x − 12 = 2x + 6, so 2x = 18 and x = 9."
+      },
+      {
+        "letter": "D",
+        "text": "4.5",
+        "isCorrect": false,
+        "trapType": "ALGEBRAIC_PARTIAL_STEP",
+        "rationale": "This comes from an incomplete distribution — multiplying the 4 by x but not by the −3 inside the parentheses."
+      }
+    ],
+    "correctAnswer": "C",
+    "studyNote": {
+      "ruleOrPrinciple": "Distribute every term inside parentheses before combining like terms, then isolate the variable using inverse operations on both sides.",
+      "trapAlert": "Test-makers place a negative number inside parentheses so an incomplete or sign-flipped distribution produces a clean-looking but wrong answer.",
+      "strategicShortcut": "Plug your solution back into the original, undistributed equation. If both sides match in one line of arithmetic, you're done.",
+      "keyVocabularyOrFormulas": [
+        "Distributive property",
+        "Like terms",
+        "Inverse operations"
+      ]
+    }
+  },
+  {
+    "id": "DSAT-M-ALG-002",
+    "domain": "Math",
+    "skillCategory": "Systems of Linear Equations",
+    "difficulty": "Medium",
+    "stimulus": "x + y = 6\n2x − y = 6",
+    "questionStem": "Given the system of equations above, what is the value of xy?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "2",
+        "isCorrect": false,
+        "trapType": "ALGEBRAIC_PARTIAL_STEP",
+        "rationale": "This is the value of x − y (4 − 2), a common slip when the question asks for the product instead of the difference."
+      },
+      {
+        "letter": "B",
+        "text": "6",
+        "isCorrect": false,
+        "trapType": "HALF_RIGHT_ALL_WRONG",
+        "rationale": "This is simply the value given for x + y in the first equation, mistaking a stated equation for the requested quantity."
+      },
+      {
+        "letter": "C",
+        "text": "16",
+        "isCorrect": false,
+        "trapType": "ALGEBRAIC_PARTIAL_STEP",
+        "rationale": "This results from finding x = 4 correctly, then wrongly assuming y also equals 4 instead of solving for it."
+      },
+      {
+        "letter": "D",
+        "text": "8",
+        "isCorrect": true,
+        "trapType": "NONE",
+        "rationale": "Adding the two equations gives 3x = 12, so x = 4 and y = 2, making xy = 4 × 2 = 8."
+      }
+    ],
+    "correctAnswer": "D",
+    "studyNote": {
+      "ruleOrPrinciple": "Add or subtract equations to eliminate a variable, or substitute one equation into the other — then check what the question actually asks for.",
+      "trapAlert": "The question often asks for a combination like xy or x − y rather than x or y alone, so solving correctly but answering the wrong quantity is the most common miss.",
+      "strategicShortcut": "Circle the exact expression the question asks for before you start solving, so you don't stop one step early.",
+      "keyVocabularyOrFormulas": [
+        "Elimination method",
+        "Substitution method",
+        "System of equations"
+      ]
+    }
+  },
+  {
+    "id": "DSAT-M-ADV-003",
+    "domain": "Math",
+    "skillCategory": "Quadratic Equations",
+    "difficulty": "Medium",
+    "stimulus": "x² − 5x − 14 = 0",
+    "questionStem": "What is the positive solution to the equation above?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "7",
+        "isCorrect": true,
+        "trapType": "NONE",
+        "rationale": "The equation factors as (x − 7)(x + 2) = 0, giving solutions x = 7 and x = −2. The positive one is 7."
+      },
+      {
+        "letter": "B",
+        "text": "−2",
+        "isCorrect": false,
+        "trapType": "OPPOSITE_DIRECTION",
+        "rationale": "This is the correct other root of the equation, but it's negative — the question specifically asks for the positive solution."
+      },
+      {
+        "letter": "C",
+        "text": "2",
+        "isCorrect": false,
+        "trapType": "ALGEBRAIC_PARTIAL_STEP",
+        "rationale": "This drops the sign from the correct factor pair (−7 and +2), producing a value that satisfies neither factor correctly."
+      },
+      {
+        "letter": "D",
+        "text": "14",
+        "isCorrect": false,
+        "trapType": "CONFIRMATION_BIAS",
+        "rationale": "This is the constant term from the original equation, grabbed directly without actually factoring or solving."
+      }
+    ],
+    "correctAnswer": "A",
+    "studyNote": {
+      "ruleOrPrinciple": "To solve a quadratic by factoring, find two numbers that multiply to the constant term and add to the coefficient of the middle term.",
+      "trapAlert": "Watch the sign of each factor separately — a sign error in factoring flips only one root, leaving a plausible-looking wrong answer.",
+      "strategicShortcut": "Substitute each candidate root back into the original equation. The correct one makes the equation equal zero in one line of arithmetic.",
+      "keyVocabularyOrFormulas": [
+        "Factoring",
+        "Zero product property",
+        "Roots of a quadratic"
+      ]
+    }
+  },
+  {
+    "id": "DSAT-M-ADV-004",
+    "domain": "Math",
+    "skillCategory": "Exponential Functions",
+    "difficulty": "Hard",
+    "stimulus": "A population of bacteria triples every 4 hours. The initial population is 200.",
+    "questionStem": "Which function best models the population, P(t), after t hours?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "P(t) = 200 · 3<sup>4t</sup>",
+        "isCorrect": false,
+        "trapType": "ALGEBRAIC_PARTIAL_STEP",
+        "rationale": "This multiplies t by 4 instead of dividing by it, making the population triple every single hour instead of every 4 hours."
+      },
+      {
+        "letter": "B",
+        "text": "P(t) = 200 · 3<sup>t/4</sup>",
+        "isCorrect": true,
+        "trapType": "NONE",
+        "rationale": "At t = 4, this gives 200 · 3¹ = 600, correctly tripling the population every 4 hours as described."
+      },
+      {
+        "letter": "C",
+        "text": "P(t) = 200 · (3<sup>t</sup>)/4",
+        "isCorrect": false,
+        "trapType": "ALGEBRAIC_PARTIAL_STEP",
+        "rationale": "This divides the final result by 4 instead of dividing the time exponent by 4, which doesn't model a fixed quadrupling period at all."
+      },
+      {
+        "letter": "D",
+        "text": "P(t) = 600 · 3<sup>t</sup>",
+        "isCorrect": false,
+        "trapType": "CONFIRMATION_BIAS",
+        "rationale": "This bakes one tripling into the starting value (200 × 3 = 600) and then applies the growth rate per hour instead of per 4-hour period."
+      }
+    ],
+    "correctAnswer": "B",
+    "studyNote": {
+      "ruleOrPrinciple": "A quantity that changes by a fixed factor every fixed time interval is modeled by P(t) = P₀ · (factor)^(t / interval).",
+      "trapAlert": "Test-makers swap the placement of the time interval, multiplying t by the interval instead of dividing by it, which silently reverses the growth rate.",
+      "strategicShortcut": "Check t = interval by hand: the model should output exactly P₀ times the growth factor (here, 200 × 3 = 600 at t = 4).",
+      "keyVocabularyOrFormulas": [
+        "Exponential growth model",
+        "Growth factor",
+        "Time interval"
+      ]
+    }
+  },
+  {
+    "id": "DSAT-M-PSD-005",
+    "domain": "Math",
+    "skillCategory": "Ratios and Proportions",
+    "difficulty": "Easy",
+    "stimulus": "A recipe calls for 3 cups of flour for every 2 cups of sugar.",
+    "questionStem": "If a baker uses 9 cups of flour and keeps the same ratio, how many cups of sugar are needed?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "3",
+        "isCorrect": false,
+        "trapType": "ALGEBRAIC_PARTIAL_STEP",
+        "rationale": "This is the correct scale factor (9 ÷ 3 = 3), but the calculation stops there instead of applying it to the sugar amount."
+      },
+      {
+        "letter": "B",
+        "text": "13.5",
+        "isCorrect": false,
+        "trapType": "OPPOSITE_DIRECTION",
+        "rationale": "This comes from setting up the proportion upside down (2/3 = 9/x instead of 3/2 = 9/x)."
+      },
+      {
+        "letter": "C",
+        "text": "8",
+        "isCorrect": false,
+        "trapType": "CONFIRMATION_BIAS",
+        "rationale": "This preserves the difference between the two ingredient amounts (flour minus sugar) rather than their ratio, an additive-reasoning error."
+      },
+      {
+        "letter": "D",
+        "text": "6",
+        "isCorrect": true,
+        "trapType": "NONE",
+        "rationale": "The scale factor from 3 to 9 cups of flour is 3, so sugar scales the same way: 2 × 3 = 6 cups."
+      }
+    ],
+    "correctAnswer": "D",
+    "studyNote": {
+      "ruleOrPrinciple": "A ratio describes a constant multiplicative relationship. Scale both quantities by the same factor to keep the ratio equivalent.",
+      "trapAlert": "A frequent error treats the ratio as a fixed difference between quantities instead of a fixed multiple, especially when the numbers start out close together.",
+      "strategicShortcut": "Set up the proportion as part over part equals part over part, then cross-multiply and solve for the unknown in one step.",
+      "keyVocabularyOrFormulas": [
+        "Ratio",
+        "Proportion",
+        "Scale factor"
+      ]
+    }
+  },
+  {
+    "id": "DSAT-M-PSD-006",
+    "domain": "Math",
+    "skillCategory": "Statistics: Mean",
+    "difficulty": "Medium",
+    "stimulus": "The mean of five numbers is 12. When a sixth number is added, the mean of all six numbers becomes 13.",
+    "questionStem": "What is the value of the sixth number?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "18",
+        "isCorrect": true,
+        "trapType": "NONE",
+        "rationale": "The first five numbers sum to 12 × 5 = 60. All six sum to 13 × 6 = 78. The sixth number is 78 − 60 = 18."
+      },
+      {
+        "letter": "B",
+        "text": "13",
+        "isCorrect": false,
+        "trapType": "CONFIRMATION_BIAS",
+        "rationale": "This is simply the new mean itself, mistaken for the value of the number that was added."
+      },
+      {
+        "letter": "C",
+        "text": "6",
+        "isCorrect": false,
+        "trapType": "ALGEBRAIC_PARTIAL_STEP",
+        "rationale": "This comes from multiplying the change in the mean (13 − 12 = 1) by 6 instead of properly comparing the two total sums."
+      },
+      {
+        "letter": "D",
+        "text": "78",
+        "isCorrect": false,
+        "trapType": "HALF_RIGHT_ALL_WRONG",
+        "rationale": "This is the correct total sum of all six numbers, an accurate intermediate value, but not the sixth number itself."
+      }
+    ],
+    "correctAnswer": "A",
+    "studyNote": {
+      "ruleOrPrinciple": "Mean multiplied by count equals sum. Find the sum before and after the new value is added, then subtract to isolate it.",
+      "trapAlert": "The question asks for the new data point itself, not the new mean or the new total, both of which appear as tempting intermediate numbers.",
+      "strategicShortcut": "Write \"sum = mean × n\" for both the before and after cases, then subtract the two sums directly.",
+      "keyVocabularyOrFormulas": [
+        "Mean (average)",
+        "Sum",
+        "Weighted total"
+      ]
+    }
+  },
+  {
+    "id": "DSAT-M-PSD-007",
+    "domain": "Math",
+    "skillCategory": "Data Interpretation",
+    "difficulty": "Medium",
+    "stimulus": "A survey asked 200 students whether they prefer studying in the morning or evening. Of the 120 students who identified as morning learners, 80 said they retain vocabulary better when reviewing right after waking up. Of the 80 evening learners, 50 said the same about reviewing right before sleep.",
+    "questionStem": "What proportion of all 200 students surveyed reported better retention when reviewing at their preferred time?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "40%",
+        "isCorrect": false,
+        "trapType": "HALF_RIGHT_ALL_WRONG",
+        "rationale": "This correctly divides the morning group's count (80) by the total (200), but it ignores the evening learners entirely."
+      },
+      {
+        "letter": "B",
+        "text": "65%",
+        "isCorrect": true,
+        "trapType": "NONE",
+        "rationale": "Combining both groups, 80 + 50 = 130 students reported better retention, and 130 ÷ 200 = 65%."
+      },
+      {
+        "letter": "C",
+        "text": "60%",
+        "isCorrect": false,
+        "trapType": "CONFIRMATION_BIAS",
+        "rationale": "This is the proportion of morning learners in the whole sample (120 ÷ 200), a real number from the passage that answers a different question."
+      },
+      {
+        "letter": "D",
+        "text": "62.5%",
+        "isCorrect": false,
+        "trapType": "HALF_RIGHT_ALL_WRONG",
+        "rationale": "This correctly divides the evening group's count (50) by its own subgroup total (80), rather than by the full 200 students surveyed."
+      }
+    ],
+    "correctAnswer": "B",
+    "studyNote": {
+      "ruleOrPrinciple": "A proportion of a whole divides by the total sample size, not by a subgroup, unless the question specifically asks about that subgroup.",
+      "trapAlert": "Answer choices deliberately include the correct calculation for a single subgroup — accurate math paired with the wrong denominator.",
+      "strategicShortcut": "Underline the exact population the question refers to (\"of the students surveyed\") before deciding what belongs in the denominator.",
+      "keyVocabularyOrFormulas": [
+        "Proportion",
+        "Subgroup vs. total",
+        "Two-way data"
+      ]
+    }
+  },
+  {
+    "id": "DSAT-M-GEO-008",
+    "domain": "Math",
+    "skillCategory": "Right Triangle Trigonometry",
+    "difficulty": "Medium",
+    "stimulus": "In right triangle ABC, angle C is the right angle, angle A measures 30°, and the hypotenuse AB has length 12.",
+    "questionStem": "What is the length of side BC, the side opposite angle A?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "6",
+        "isCorrect": true,
+        "trapType": "NONE",
+        "rationale": "The side opposite a 30° angle equals the hypotenuse times sin(30°): 12 × 0.5 = 6."
+      },
+      {
+        "letter": "B",
+        "text": "6√3",
+        "isCorrect": false,
+        "trapType": "OPPOSITE_DIRECTION",
+        "rationale": "This is the length of side AC, the adjacent side (12 × cos(30°)), found by using the wrong trig ratio for the side being asked about."
+      },
+      {
+        "letter": "C",
+        "text": "12",
+        "isCorrect": false,
+        "trapType": "ALGEBRAIC_PARTIAL_STEP",
+        "rationale": "This simply restates the hypotenuse, skipping the trig ratio needed to find a leg of the triangle."
+      },
+      {
+        "letter": "D",
+        "text": "4",
+        "isCorrect": false,
+        "trapType": "ALGEBRAIC_PARTIAL_STEP",
+        "rationale": "This comes from misremembering sin(30°) as 1/3 instead of 1/2."
+      }
+    ],
+    "correctAnswer": "A",
+    "studyNote": {
+      "ruleOrPrinciple": "In a right triangle, sine of an angle equals opposite over hypotenuse; cosine equals adjacent over hypotenuse.",
+      "trapAlert": "Swapping sine and cosine — using the adjacent side instead of the opposite side — produces a valid-looking distractor from the very same triangle.",
+      "strategicShortcut": "Sketch the triangle and label opposite and adjacent relative to the given angle before choosing a ratio. Never apply sine or cosine from memory alone.",
+      "keyVocabularyOrFormulas": [
+        "SOH-CAH-TOA",
+        "Opposite/adjacent/hypotenuse",
+        "Right triangle ratios"
+      ]
+    }
+  },
+  {
+    "id": "DSAT-M-GEO-009",
+    "domain": "Math",
+    "skillCategory": "Circles in the Coordinate Plane",
+    "difficulty": "Hard",
+    "stimulus": "A circle in the xy-plane has the equation x² + y² − 6x + 4y − 12 = 0.",
+    "questionStem": "What is the radius of the circle?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "25",
+        "isCorrect": false,
+        "trapType": "ALGEBRAIC_PARTIAL_STEP",
+        "rationale": "Completing the square correctly gives (x − 3)² + (y + 2)² = 25, but this reports r² instead of taking the final square root to get r."
+      },
+      {
+        "letter": "B",
+        "text": "12",
+        "isCorrect": false,
+        "trapType": "CONFIRMATION_BIAS",
+        "rationale": "This is the constant from the original, un-completed equation, grabbed directly without completing the square."
+      },
+      {
+        "letter": "C",
+        "text": "5",
+        "isCorrect": true,
+        "trapType": "NONE",
+        "rationale": "Completing the square gives (x − 3)² + (y + 2)² = 25, so r² = 25 and r = 5."
+      },
+      {
+        "letter": "D",
+        "text": "3",
+        "isCorrect": false,
+        "trapType": "HALF_RIGHT_ALL_WRONG",
+        "rationale": "This is the x-coordinate of the circle's center, an accurate value from the correct process, but not the radius."
+      }
+    ],
+    "correctAnswer": "C",
+    "studyNote": {
+      "ruleOrPrinciple": "Complete the square on both the x- and y-terms to rewrite a circle's equation as (x − h)² + (y − k)² = r². The radius is the square root of the right-hand side.",
+      "trapAlert": "The choice set almost always includes r² itself as bait, for students who stop one step early and forget to take the square root.",
+      "strategicShortcut": "After completing the square, confirm both squared binomials are set up correctly, then take the square root of the right side as your very last move.",
+      "keyVocabularyOrFormulas": [
+        "Completing the square",
+        "Center-radius form",
+        "Equation of a circle"
+      ]
+    }
+  },
+  {
+    "id": "DSAT-M-GEO-010",
+    "domain": "Math",
+    "skillCategory": "Volume",
+    "difficulty": "Easy",
+    "stimulus": "A cylindrical water tank has a radius of 3 feet and a height of 10 feet.",
+    "questionStem": "What is the volume of the tank, in cubic feet, in terms of π?",
+    "choices": [
+      {
+        "letter": "A",
+        "text": "30π",
+        "isCorrect": false,
+        "trapType": "ALGEBRAIC_PARTIAL_STEP",
+        "rationale": "This comes from computing π × r × h and forgetting to square the radius."
+      },
+      {
+        "letter": "B",
+        "text": "90π",
+        "isCorrect": true,
+        "trapType": "NONE",
+        "rationale": "Volume equals πr²h = π × 3² × 10 = π × 9 × 10 = 90π."
+      },
+      {
+        "letter": "C",
+        "text": "60π",
+        "isCorrect": false,
+        "trapType": "HALF_RIGHT_ALL_WRONG",
+        "rationale": "This comes from using the diameter (6) in place of the radius without squaring it."
+      },
+      {
+        "letter": "D",
+        "text": "360π",
+        "isCorrect": false,
+        "trapType": "ALGEBRAIC_PARTIAL_STEP",
+        "rationale": "This comes from squaring the diameter (6² = 36) instead of squaring the radius."
+      }
+    ],
+    "correctAnswer": "B",
+    "studyNote": {
+      "ruleOrPrinciple": "The volume of a cylinder is πr²h — the radius is squared, and the radius is always half of the diameter.",
+      "trapAlert": "Distractors are built by forgetting to square the radius, or by silently substituting the diameter where the radius belongs.",
+      "strategicShortcut": "Write the formula out first, substitute values into the correct slots, then compute. Never substitute mentally straight into an answer.",
+      "keyVocabularyOrFormulas": [
+        "Volume of a cylinder",
+        "πr²h",
+        "Radius vs. diameter"
+      ]
+    }
+  }
+]

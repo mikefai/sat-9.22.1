@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Item Bank — Digital SAT Practice</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="topbar">
+  <div class="topbar-inner">
+    <div class="brand-row">
+      <div class="brand">
+        <h1>Item Bank</h1>
+        <p>20 digital SAT items, each paired with a study note</p>
+      </div>
+      <div style="display:flex; gap:8px; align-items:center;">
+        <span class="score-chip" id="scoreChip">0 / 0 correct</span>
+        <button class="report-btn" id="reportBtn" type="button">Session report</button>
+      </div>
+    </div>
+    <div class="controls-row">
+      <div class="segmented" id="domainTabs" role="group" aria-label="Filter by section">
+        <button data-domain="All" aria-pressed="true" type="button">All items</button>
+        <button data-domain="Reading and Writing" aria-pressed="false" type="button">Reading &amp; Writing</button>
+        <button data-domain="Math" aria-pressed="false" type="button">Math</button>
+      </div>
+      <div class="chip-group" id="diffChips" role="group" aria-label="Filter by difficulty">
+        <button class="chip" data-diff="Easy" aria-pressed="true" type="button">Easy</button>
+        <button class="chip" data-diff="Medium" aria-pressed="true" type="button">Medium</button>
+        <button class="chip" data-diff="Hard" aria-pressed="true" type="button">Hard</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<main id="main">
+  <div id="questionArea"></div>
+</main>
+
+<dialog id="report">
+  <div class="report-inner">
+    <h2>Session report</h2>
+    <div id="reportBody"></div>
+    <div class="report-actions">
+      <button class="nav-btn danger" id="resetBtn" type="button">Reset progress</button>
+      <button class="nav-btn" id="closeReportBtn" type="button">Close</button>
+    </div>
+  </div>
+</dialog>
+
+<script src="app.js"></script>
+</body>
+</html>
